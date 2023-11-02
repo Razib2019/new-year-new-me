@@ -1,0 +1,52 @@
+/* Implement Browser Default Margin And Padding to Zero  */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* Specify Default Font-Family Here */
+body {
+  font-family: "Work Sans", sans-serif;
+}
+
+/* Top Banner Section Styles  */
+.top-banner {
+  background-image: url("../images/banner/banner1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.banner-content-container {
+  text-align: right;
+  padding-top: 250px;
+  padding-right: 230px;
+}
+
+.banner-title {
+  color: #151414;
+  text-align: right;
+  font-size: 65px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+.banner-description {
+  color: #444343;
+  text-align: right;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 30px;
+}
+
+.btn-contact-us {
+  padding: 20px 25px;
+  color: #fff;
+  border-radius: 5px;
+  background: #f15b22;
+  text-align: right;
+  font-size: 20px;
+  font-weight: 600;
+  border: none;
+}
