@@ -50,3 +50,59 @@ body {
   font-weight: 600;
   border: none;
 }
+
+/* Failure Section Styles */
+.failure-section-container {
+  display: flex;
+  gap: 120px;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 140px 320px 130px 225px;
+}
+
+.failure-section-left {
+  width: 100%;
+}
+
+.person-image {
+  width: 100%;
+}
+
+.failure-section-right {
+  width: 100%;
+  margin-top: 200px;
+}
+
+.failure-section-title {
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+.failure-section-description {
+  width: 410px;
+  color: #444343;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 16px;
+}
+
+.option-check {
+  display: flex;
+  align-items: center;
+  gap: 20px 10px;
+}
+
+.option-check img {
+  width: 24px;
+  height: 24px;
+}
+
+.option-check-text {
+  color: #444343;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 36px;
+}
