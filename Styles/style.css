@@ -147,3 +147,33 @@ body {
   font-size: 25px;
   font-weight: 500;
 }
+
+/* Positive Mindset Banner Section Styles */
+.positive-mindset-banner {
+  background-image: url("../images/gradient2.png"), url("../images/watch.png");
+  background-repeat: no-repeat;
+  width: 1140px;
+  height: 300px;
+  margin: auto;
+}
+
+.positive-mindset-title {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 700;
+  padding: 60px 0px 0px 65px;
+  margin-bottom: 24px;
+}
+
+.call-now {
+  width: 160px;
+  height: 64px;
+  border-radius: 5px;
+  background-color: #fff;
+  border: none;
+  margin-left: 65px;
+  color: #f15b22;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+}
