@@ -177,3 +177,87 @@ body {
   font-size: 20px;
   font-weight: 600;
 }
+
+/* Footer Section Styles */
+.footer-container {
+  display: flex;
+  padding: 130px 230px;
+  margin-top: 130px;
+  background-color: #151414;
+}
+
+.footer-left-container {
+  width: 60%;
+}
+
+.footer-left-title {
+  color: #f8f8f8;
+  font-size: 45px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.footer-left-description {
+  width: 485px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 24px;
+}
+
+.footer-email {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 16px;
+}
+
+.footer-phone {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 32px;
+}
+
+.social-links img {
+  margin-left: 10px;
+}
+
+.footer-right-container {
+  width: 40%;
+}
+
+.footer-right-container a {
+  text-decoration: none;
+}
+
+.footer-right-text {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 31px;
+}
+
+.footer-right-container input {
+  color: #fff;
+  background-color: #151414;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 21px 158px 22px 21px;
+  border-radius: 8px;
+  border: 1px solid #fff;
+}
+
+.subscribe {
+  margin-top: 16px;
+  display: block;
+  padding: 20px 36px;
+  color: #f15b22;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 8px;
+  background: #fff;
+}
